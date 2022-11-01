@@ -7,5 +7,5 @@ The edge list and plain text files can be found in the following directory struc
 │   ├───3-D_Man.txt
 │   ├───...
 │   ├───Zzzax.txt
-└───edge_list
+└───edge_list.txt
 ```
